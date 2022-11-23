@@ -1,6 +1,6 @@
 # good-morning - Hover Image Gallery
 
-![image](untitled.png)
+![image](Untitled.png)
 
 ## Built with
 - HTML5
